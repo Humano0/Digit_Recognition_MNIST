@@ -12,4 +12,4 @@ concepts in machine learning and to compare their new algorithms against existin
 
 You can download the .csv file I used in this project via the link below:
 
-https://drive.google.com/file/d/1P90N8F5ocY065jEsG62mGrW76be_iX-Z/view?usp=sharing
+https://www.kaggle.com/datasets/oddrationale/mnist-in-csv
